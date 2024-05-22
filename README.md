@@ -53,7 +53,9 @@ Thanks for checking out Drumkit, where making music is as easy as pressing a but
 
 Feel free to dive into the code, contribute, or use it for educational purposes. Your feedback and contributions are immensely valuable.
 
-
+<p align="center">
+  <img src="./endinggif.gif" alt="meme GIF" width="250" />
+</p>
 
 <p align="center">
   Keep drumming! 🥁🎶
